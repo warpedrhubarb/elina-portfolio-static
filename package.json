@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "surge": "^0.23.0"
+  },
+  "scripts": {
+    "surge": "surge"
+  }
+}
